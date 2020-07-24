@@ -20,7 +20,7 @@ def login(username, password):
                 'Referer': 'http://index.baidu.com/v2/index.html',
                'Connection': 'keep - alive',
                'Content - Type': 'application / x - www - form - urlencoded',
-               'Cookie':'BAIDUID=F08E5BE59F45BCB7A0C6F7C7BBE1CA44:FG=1'
+               'Cookie':'BAIDUID=7FF05FF7770D8AE4CAA78127688667E1:FG=1'
                }
 
     tt = str(int(time.time() * 1000))
